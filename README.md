@@ -16,6 +16,7 @@ To run this program, you must have the Solidity compiler installed in your syste
 
 On reaching Remix website, you have to create a new file by "+" sign in the left-hand sidebar and save the file with .sol extension. Now, copy and paste the code into file: 
 
+```
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.18;
