@@ -17,6 +17,7 @@ To run this program, you must have the Solidity compiler installed in your syste
 On reaching Remix website, you have to create a new file by "+" sign in the left-hand sidebar and save the file with .sol extension. Now, copy and paste the code into file: 
 
 // SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.18;
 
 /*
@@ -72,12 +73,12 @@ Now, click on burn dropdown icon and fill address and value, and click on transa
 
 ## Help
 
-For any issues or common problems related to this contract, refer solidity documentation on internet.
+For any issues or common problems related to this contract, refer Solidity documentation on internet.
 
 ## Authors
 
 Srijan Kumar
-[srijankumar11627@gmail.com]
+ [srijankumar11627@gmail.com]
 
 ## License
 
