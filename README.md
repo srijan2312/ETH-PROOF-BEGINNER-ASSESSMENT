@@ -18,7 +18,6 @@ On reaching Remix website, you have to create a new file by "+" sign in the left
 
 ```
 // SPDX-License-Identifier: MIT
-
 pragma solidity 0.8.18;
 
 /*
@@ -59,6 +58,7 @@ contract MyToken {
         }
     }
 }
+```
 
 To compile the code, you have to click on the "Solidity Compiler" tab in the left-hand sidebar. Before clicking on compile button, check if the compiler version is set to same as pragma in the code and then click on "Compile MyToken.sol" icon.
 
