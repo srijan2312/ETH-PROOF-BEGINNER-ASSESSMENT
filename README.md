@@ -78,8 +78,8 @@ For any issues or common problems related to this contract, refer Solidity docum
 
 ## Authors
 
-Srijan Kumar
- [srijankumar11627@gmail.com]
+Srijan Kumar<br>
+[@srijankumar] (srijankumar11627@gmail.com)
 
 ## License
 
